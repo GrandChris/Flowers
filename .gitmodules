@@ -1,0 +1,6 @@
+[submodule "VulkanErruption"]
+	path = VulkanErruption
+	url = https://github.com/GrandChris/VulkanErruption.git
+[submodule "glm"]
+	path = glm
+	url = https://github.com/g-truc/glm.git
